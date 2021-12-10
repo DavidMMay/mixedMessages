@@ -1,4 +1,3 @@
-// You should travel to "country", visit the "landmark", and eat "food",
 const randNum = (num) => {
     return Math.floor(Math.random() * num);
 }
@@ -25,4 +24,4 @@ for (let prop in collectiveWisdom){
 const formated = (wisdom) {
     const formated = personalWisdom.push("/n");
 }
-formated(personWisdom);
+formated(personalWisdom);
